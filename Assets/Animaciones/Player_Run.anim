@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: caminar
+  m_Name: Player_Run
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,7 +20,7 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 463167036469006645, guid: 8a5d7393b3999804bb5ac903e420c53f,
+      value: {fileID: -3901825175021881390, guid: 8a5d7393b3999804bb5ac903e420c53f,
         type: 3}
     - time: 0.25
       value: {fileID: -3901825175021881390, guid: 8a5d7393b3999804bb5ac903e420c53f,
@@ -53,7 +53,7 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 463167036469006645, guid: 8a5d7393b3999804bb5ac903e420c53f, type: 3}
+    - {fileID: -3901825175021881390, guid: 8a5d7393b3999804bb5ac903e420c53f, type: 3}
     - {fileID: -3901825175021881390, guid: 8a5d7393b3999804bb5ac903e420c53f, type: 3}
     - {fileID: -5664650594666802891, guid: 8a5d7393b3999804bb5ac903e420c53f, type: 3}
     - {fileID: -3736641513198929832, guid: 8a5d7393b3999804bb5ac903e420c53f, type: 3}
