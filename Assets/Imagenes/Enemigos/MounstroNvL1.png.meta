@@ -1,7 +1,61 @@
 fileFormatVersion: 2
 guid: e003e5bf0b31f34468dcdb3c41e6ec89
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5677971797050919597
+    second: MounstroNvL1_0
+  - first:
+      213: -6810456379126468991
+    second: MounstroNvL1_1
+  - first:
+      213: 281100345360642060
+    second: MounstroNvL1_2
+  - first:
+      213: 9083096697332541689
+    second: MounstroNvL1_3
+  - first:
+      213: -3571454321193964300
+    second: MounstroNvL1_4
+  - first:
+      213: -7357654743364315620
+    second: MounstroNvL1_5
+  - first:
+      213: -460789357518520670
+    second: MounstroNvL1_6
+  - first:
+      213: 6812429375519115771
+    second: MounstroNvL1_7
+  - first:
+      213: -8092142228882753794
+    second: MounstroNvL1_8
+  - first:
+      213: 277762446953078481
+    second: MounstroNvL1_9
+  - first:
+      213: -694769651580270080
+    second: MounstroNvL1_10
+  - first:
+      213: 2902316713460265141
+    second: MounstroNvL1_11
+  - first:
+      213: -8228391252120124293
+    second: MounstroNvL1_12
+  - first:
+      213: 4950732103624833158
+    second: MounstroNvL1_13
+  - first:
+      213: -4178837688583332588
+    second: MounstroNvL1_14
+  - first:
+      213: -2187516687752729322
+    second: MounstroNvL1_15
+  - first:
+      213: -3229764863288819008
+    second: MounstroNvL1_16
+  - first:
+      213: 7073501948892753503
+    second: MounstroNvL1_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +94,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +125,423 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MounstroNvL1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f718dbbac331b0800000000000000
+      internalID: -5677971797050919597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eafdba1066c71a0800000000000000
+      internalID: -6810456379126468991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f577564ba6e300800000000000000
+      internalID: 281100345360642060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8a7096254ad0e70800000000000000
+      internalID: 9083096697332541689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc23bd9735af6ec0800000000000000
+      internalID: -3571454321193964300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c165dc15efb54e990800000000000000
+      internalID: -7357654743364315620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aef3dc4582fa99f0800000000000000
+      internalID: -460789357518520670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9c0495c6c9a8e50800000000000000
+      internalID: 6812429375519115771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6718f448fe2bf80800000000000000
+      internalID: -8092142228882753794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded49e497fcad300800000000000000
+      internalID: 277762446953078481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a06d4deaeab56f0800000000000000
+      internalID: -694769651580270080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_11
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b07a7b7ca9174820800000000000000
+      internalID: 2902316713460265141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_12
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c27880c1eecd80800000000000000
+      internalID: -8228391252120124293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 12
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6883eae3e9884b440800000000000000
+      internalID: 4950732103624833158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_14
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dd9fd3349c106c0800000000000000
+      internalID: -4178837688583332588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_15
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d6246992164a1e0800000000000000
+      internalID: -2187516687752729322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_16
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2c1a708f19d23d0800000000000000
+      internalID: -3229764863288819008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroNvL1_17
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e29c5ab802a2260800000000000000
+      internalID: 7073501948892753503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
