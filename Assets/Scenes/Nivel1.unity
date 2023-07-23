@@ -1685,6 +1685,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5846572032217828270, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
+        type: 3}
+      propertyPath: deathEffect
+      value: 
+      objectReference: {fileID: 1362462543}
     - target: {fileID: 5846572032217828271, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
         type: 3}
       propertyPath: player
@@ -11368,6 +11373,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5846572032217828270, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
+        type: 3}
+      propertyPath: deathEffect
+      value: 
+      objectReference: {fileID: 1362462543}
     - target: {fileID: 5846572032217828271, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
         type: 3}
       propertyPath: player
@@ -12805,6 +12815,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5846572032217828270, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
+        type: 3}
+      propertyPath: deathEffect
+      value: 
+      objectReference: {fileID: 1362462543}
     - target: {fileID: 5846572032217828271, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
         type: 3}
       propertyPath: player
@@ -20492,7 +20507,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 653444396}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.44151, y: -2.65, z: -5}
+  m_LocalPosition: {x: -11.437272, y: -2.65, z: -5}
   m_LocalScale: {x: 0.7, y: 0.6, z: 0.7}
   m_Children: []
   m_Father: {fileID: 0}
@@ -23219,6 +23234,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5846572032217828270, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
+        type: 3}
+      propertyPath: deathEffect
+      value: 
+      objectReference: {fileID: 1362462543}
     - target: {fileID: 5846572032217828271, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
         type: 3}
       propertyPath: player
@@ -30267,7 +30287,7 @@ PrefabInstance:
     - target: {fileID: 5846572032217828270, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
         type: 3}
       propertyPath: health
-      value: 100
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 5846572032217828270, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
         type: 3}
@@ -30531,7 +30551,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 975201335}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.44151, y: -2.65, z: -5}
+  m_LocalPosition: {x: -11.437272, y: -2.65, z: -5}
   m_LocalScale: {x: 0, y: 1, z: 1}
   m_Children:
   - {fileID: 1065656989}
@@ -32476,6 +32496,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5846572032217828270, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
+        type: 3}
+      propertyPath: deathEffect
+      value: 
+      objectReference: {fileID: 1362462543}
     - target: {fileID: 5846572032217828271, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
         type: 3}
       propertyPath: player
@@ -48292,6 +48317,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5846572032217828270, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
+        type: 3}
+      propertyPath: deathEffect
+      value: 
+      objectReference: {fileID: 1362462543}
     - target: {fileID: 5846572032217828271, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
         type: 3}
       propertyPath: player
@@ -48546,6 +48576,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5846572032217828270, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
+        type: 3}
+      propertyPath: deathEffect
+      value: 
+      objectReference: {fileID: 1362462543}
     - target: {fileID: 5846572032217828271, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
         type: 3}
       propertyPath: player
@@ -63602,7 +63637,7 @@ PrefabInstance:
         type: 3}
       propertyPath: deathEffect
       value: 
-      objectReference: {fileID: 463552435}
+      objectReference: {fileID: 1362462543}
     - target: {fileID: 5846572032217828271, guid: 1baa3c4c482cfd048ba16c95387d2b7c,
         type: 3}
       propertyPath: player
