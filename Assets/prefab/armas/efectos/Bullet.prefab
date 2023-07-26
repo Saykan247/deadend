@@ -135,7 +135,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 20
-  damage: 40
+  damage: 10
   rb: {fileID: 6156162416417733640}
   impactEffect: {fileID: 1770160662186864997, guid: b29d10cf1ab5e064cb290c46fec83f83,
     type: 3}
@@ -274,7 +274,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 20
-  damage: 40
+  damage: 10
   rb: {fileID: 2787308303432895676}
   impactEffect: {fileID: 1770160662186864997, guid: b29d10cf1ab5e064cb290c46fec83f83,
     type: 3}
@@ -415,7 +415,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 20
-  damage: 40
+  damage: 10
   rb: {fileID: 9054999673791392176}
   impactEffect: {fileID: 1770160662186864997, guid: b29d10cf1ab5e064cb290c46fec83f83,
     type: 3}
