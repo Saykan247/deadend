@@ -9,7 +9,7 @@ public class Bullet : MonoBehaviour {
 	public Rigidbody2D rb;
 	public GameObject impactEffect;
 
-	// Use this for initialization
+	
 	void Start () {
 		rb.velocity = transform.right * speed;
 	}

@@ -7,7 +7,7 @@ public class PrefabWeapon : MonoBehaviour {
 	public Transform firePoint;
 	public GameObject bulletPrefab;
     public Animator animator;
-	public Animator animator2;
+	
 
 	void Update () {
 		if (Input.GetButtonDown("Fire2"))
