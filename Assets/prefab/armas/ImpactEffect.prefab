@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5293676819625931991}
   - component: {fileID: 7732004967033735250}
   m_Layer: 0
-  m_Name: "Escopetita Piojo Opci\xF3n1_8 1"
+  m_Name: ImpactEffect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

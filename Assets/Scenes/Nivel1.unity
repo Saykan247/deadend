@@ -31597,6 +31597,7 @@ GameObject:
   - component: {fileID: 1015335907}
   - component: {fileID: 1015335909}
   - component: {fileID: 1015335908}
+  - component: {fileID: 1015335910}
   m_Layer: 0
   m_Name: "Escopetita Piojo Opci\xF3n1_0"
   m_TagString: Untagged
@@ -31688,6 +31689,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1015335910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1015335906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e052267f860de943972f384c16953f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firePoint: {fileID: 1716009355}
+  bulletPrefab: {fileID: 0}
+  animator: {fileID: 990829658}
 --- !u!1 &1017430185
 GameObject:
   m_ObjectHideFlags: 0
@@ -64012,72 +64028,3 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a373609dd9fcdf4995f3c468678e18d, type: 3}
---- !u!1001 &8851643790413627888
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 478
-      objectReference: {fileID: 0}
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -12.912416
-      objectReference: {fileID: 0}
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.8295984
-      objectReference: {fileID: 0}
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 898811133954470756, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1770160662186864997, guid: b29d10cf1ab5e064cb290c46fec83f83,
-        type: 3}
-      propertyPath: m_Name
-      value: "Escopetita Piojo Opci\xF3n1_8"
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b29d10cf1ab5e064cb290c46fec83f83, type: 3}

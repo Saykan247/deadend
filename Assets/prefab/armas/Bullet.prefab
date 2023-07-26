@@ -137,7 +137,7 @@ MonoBehaviour:
   speed: 20
   damage: 40
   rb: {fileID: 6156162416417733640}
-  impactEffect: {fileID: 3435496995582384034, guid: 78686fd174fc9ed45975e447683c53f8,
+  impactEffect: {fileID: 1770160662186864997, guid: b29d10cf1ab5e064cb290c46fec83f83,
     type: 3}
 --- !u!1 &6329656164640032605
 GameObject:
@@ -276,7 +276,7 @@ MonoBehaviour:
   speed: 20
   damage: 40
   rb: {fileID: 2787308303432895676}
-  impactEffect: {fileID: 3435496995582384034, guid: 78686fd174fc9ed45975e447683c53f8,
+  impactEffect: {fileID: 1770160662186864997, guid: b29d10cf1ab5e064cb290c46fec83f83,
     type: 3}
 --- !u!1 &7692160385055383831
 GameObject:
@@ -292,7 +292,7 @@ GameObject:
   - component: {fileID: 9054999673791392176}
   - component: {fileID: 5789751725705155085}
   m_Layer: 0
-  m_Name: "Escopetita Piojo Opci\xF3n1_4 (1)"
+  m_Name: Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
