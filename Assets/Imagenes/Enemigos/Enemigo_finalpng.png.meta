@@ -1,7 +1,25 @@
 fileFormatVersion: 2
 guid: 263862136afce9449bb82fba87be2c10
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2115470101143045992
+    second: Enemigo_finalpng_0
+  - first:
+      213: -7157923033740071810
+    second: Enemigo_finalpng_1
+  - first:
+      213: -2783102801667877181
+    second: Enemigo_finalpng_2
+  - first:
+      213: -7759810847400040180
+    second: Enemigo_finalpng_3
+  - first:
+      213: 3205563571789086894
+    second: Enemigo_finalpng_4
+  - first:
+      213: 903162415875406324
+    second: Enemigo_finalpng_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +89,171 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo_finalpng_0
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 2089
+        height: 3840
+      alignment: 9
+      pivot: {x: 1.7688453, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867479749d8ab5d10800000000000000
+      internalID: 2115470101143045992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_finalpng_1
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 48
+        width: 3857
+        height: 3792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c2654dce2f9ac90800000000000000
+      internalID: -7157923033740071810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_finalpng_2
+      rect:
+        serializedVersion: 2
+        x: 7819
+        y: 48
+        width: 3673
+        height: 3788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c611355fbe6069d0800000000000000
+      internalID: -2783102801667877181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_finalpng_3
+      rect:
+        serializedVersion: 2
+        x: 11653
+        y: 25
+        width: 3559
+        height: 3765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c096f74c52d9f4490800000000000000
+      internalID: -7759810847400040180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_finalpng_4
+      rect:
+        serializedVersion: 2
+        x: 15487
+        y: 140
+        width: 3650
+        height: 3696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0cb61b5137c7c20800000000000000
+      internalID: 3205563571789086894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_finalpng_5
+      rect:
+        serializedVersion: 2
+        x: 19252
+        y: 94
+        width: 3788
+        height: 3719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9bcbc9e6da88c00800000000000000
+      internalID: 903162415875406324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
